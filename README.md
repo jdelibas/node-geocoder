@@ -1,5 +1,13 @@
 # node-geocoder
 
+## FORK DETAILS
+
+Added fallback values for the google geocoder for my specific use case
+
+```/lib/geocoder/googlegeocoder.js```
+
+
+
 [![Build Status](https://travis-ci.org/nchaulet/node-geocoder.png?branch=master)](https://travis-ci.org/nchaulet/node-geocoder)
 
 ![Dependencycy status](https://david-dm.org/nchaulet/node-geocoder.png)
